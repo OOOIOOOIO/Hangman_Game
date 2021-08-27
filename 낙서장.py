@@ -10,3 +10,5 @@ for char in word :
         print("_", end = " ")
 
 print("수정1")
+
+print("수정 2")
