@@ -7,7 +7,18 @@
 
 -----------------------
 
-  ### 
+  ### 실행 환경
+  > WIndow 10
+  > Atom
+
+-----------------------
+  ### 사용 패키지
+'''python
+>import time
+>import csv
+>import random
+>import winsound
+'''
 
 
 
