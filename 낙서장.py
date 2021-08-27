@@ -9,6 +9,4 @@ for char in word :
         # 기본, 틀린 경우 대시로 처리
         print("_", end = " ")
 
-print("수정1")
-
-print("수정 d2")
+print("아톰을 사용해서 처음으로 깃허브 연동해봤당~~ 유후")
