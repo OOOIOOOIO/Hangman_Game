@@ -11,4 +11,4 @@ for char in word :
 
 print("수정1")
 
-print("수정 2")
+print("수정 d2")
