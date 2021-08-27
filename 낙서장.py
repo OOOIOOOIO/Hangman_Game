@@ -8,3 +8,5 @@ for char in word :
     else :
         # 기본, 틀린 경우 대시로 처리
         print("_", end = " ")
+
+print("수정1")
