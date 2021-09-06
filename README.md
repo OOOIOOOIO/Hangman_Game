@@ -17,6 +17,11 @@
 > import random  
 > import winsound  
   
+-----------------------
+### 코드 리뷰
+'''python  
+print()
+'''  
 
 
 
