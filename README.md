@@ -12,11 +12,10 @@
 
 -----------------------
 ### 사용 패키지
-나의 이름은
-
-  김성호
-  
-입니당
+> import time   
+> import csv  
+> import random  
+> import winsound  
   
 
 
