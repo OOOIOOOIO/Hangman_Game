@@ -17,15 +17,6 @@
 > import random  
 > import winsound  
   
------------------------
-### 코드 리뷰
-'''  
-
-print()
-
-'''  
-
-
 
 
 
